@@ -11,5 +11,4 @@ void main() {
     sol = 0;
   }
   print("Fin de table");
-  print("error");
 }
