@@ -10,4 +10,5 @@ void main() {
     print('$nombre * $i = $sol');
     sol = 0;
   }
+  print("Fin de table");
 }
